@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kitcheneryfragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="i">i</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Kitchenery</string>
+
+</resources>
